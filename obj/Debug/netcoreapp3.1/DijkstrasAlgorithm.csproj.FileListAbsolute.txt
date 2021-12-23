@@ -1,0 +1,13 @@
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.exe
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.deps.json
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.runtimeconfig.json
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.runtimeconfig.dev.json
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.dll
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.pdb
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.csprojAssemblyReference.cache
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.AssemblyInfoInputs.cache
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.AssemblyInfo.cs
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.dll
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.pdb
+C:\Users\leonardo.alves\Documents\Estudos\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.genruntimeconfig.cache
